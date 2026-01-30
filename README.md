@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import absgammalnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-absgammalnf@deno/mod.js';
+import absgammalnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-absgammalnf@v0.1.0-deno/mod.js';
 ```
 
 #### absgammalnf( x )
@@ -85,7 +85,7 @@ v = absgammalnf( NaN );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import absgammalnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-absgammalnf@deno/mod.js';
+import absgammalnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-absgammalnf@v0.1.0-deno/mod.js';
 
 var opts = {
     'dtype': 'float32'
