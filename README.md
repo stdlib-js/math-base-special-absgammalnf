@@ -247,8 +247,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/math-base-special-absgammalnf.svg
 [npm-url]: https://npmjs.org/package/@stdlib/math-base-special-absgammalnf
 
-[test-image]: https://github.com/stdlib-js/math-base-special-absgammalnf/actions/workflows/test.yml/badge.svg?branch=v0.1.1
-[test-url]: https://github.com/stdlib-js/math-base-special-absgammalnf/actions/workflows/test.yml?query=branch:v0.1.1
+[test-image]: https://github.com/stdlib-js/math-base-special-absgammalnf/actions/workflows/test.yml/badge.svg?branch=v0.1.2
+[test-url]: https://github.com/stdlib-js/math-base-special-absgammalnf/actions/workflows/test.yml?query=branch:v0.1.2
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-base-special-absgammalnf/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-base-special-absgammalnf?branch=main
