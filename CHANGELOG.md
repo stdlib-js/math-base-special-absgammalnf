@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-24)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`a60fc25`](https://github.com/stdlib-js/stdlib/commit/a60fc2596e69278abc19df474aa63f259f9bdbe5) - **test:** use powf in `absgammaInf` [(#10437)](https://github.com/stdlib-js/stdlib/pull/10437) _(by Sagar Ratna Chaudhary)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Sagar Ratna Chaudhary
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.2">
 
 ## 0.1.2 (2026-02-08)
