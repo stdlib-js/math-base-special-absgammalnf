@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-29)
+## Unreleased (2026-04-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`9229dd7`](https://github.com/stdlib-js/stdlib/commit/9229dd78fa82c5f863dbc51a9588314d53a97c44) - **bench:** refactor to use string interpolation in `math/base/special` [(#11386)](https://github.com/stdlib-js/stdlib/pull/11386) _(by Karan Anand)_
 -   [`a60fc25`](https://github.com/stdlib-js/stdlib/commit/a60fc2596e69278abc19df474aa63f259f9bdbe5) - **test:** use `powf` in `absgammalnf` [(#10437)](https://github.com/stdlib-js/stdlib/pull/10437) _(by Sagar Ratna Chaudhary)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Sagar Ratna Chaudhary
 
 </section>
