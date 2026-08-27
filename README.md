@@ -35,6 +35,22 @@ limitations under the License.
 
 > [Natural logarithm][@stdlib/math/base/special/lnf] of the [absolute][@stdlib/math/base/special/absf] value of the [gamma][@stdlib/math/base/special/gamma] function.
 
+<section class="intro">
+
+The function computes the natural logarithm of the absolute value of the [gamma function][gamma-function]
+
+<!-- <equation class="equation" label="eq:absgammaln_function" align="center" raw="y = \ln |\Gamma(x)|" alt="Natural logarithm of the absolute value of the gamma function"> -->
+
+```math
+y = \ln |\Gamma(x)|
+```
+
+<!-- </equation> -->
+
+</section>
+
+<!-- /.intro -->
+
 <section class="installation">
 
 ## Installation
@@ -277,6 +293,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/math-base-special-absgammalnf/tree/esm
 [esm-readme]: https://github.com/stdlib-js/math-base-special-absgammalnf/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/math-base-special-absgammalnf/blob/main/branches.md
+
+[gamma-function]: https://en.wikipedia.org/wiki/Gamma_function
 
 [@stdlib/math/base/special/lnf]: https://github.com/stdlib-js/math-base-special-lnf
 

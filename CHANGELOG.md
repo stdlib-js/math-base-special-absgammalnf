@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-07)
+## Unreleased (2026-08-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`795a5dc`](https://github.com/stdlib-js/stdlib/commit/795a5dc8faad670819a5151bcf249176dbdac6b4) - **docs:** add equations [(#14690)](https://github.com/stdlib-js/stdlib/pull/14690) _(by Karan Anand)_
 -   [`f19d370`](https://github.com/stdlib-js/stdlib/commit/f19d370e0a194ac8ffed4916f8b8b51ecfe5896f) - **chore:** clean-up [(#14016)](https://github.com/stdlib-js/stdlib/pull/14016) _(by Philipp Burckhardt)_
 -   [`9229dd7`](https://github.com/stdlib-js/stdlib/commit/9229dd78fa82c5f863dbc51a9588314d53a97c44) - **bench:** refactor to use string interpolation in `math/base/special` [(#11386)](https://github.com/stdlib-js/stdlib/pull/11386) _(by Karan Anand)_
 -   [`a60fc25`](https://github.com/stdlib-js/stdlib/commit/a60fc2596e69278abc19df474aa63f259f9bdbe5) - **test:** use `powf` in `absgammalnf` [(#10437)](https://github.com/stdlib-js/stdlib/pull/10437) _(by Sagar Ratna Chaudhary)_
